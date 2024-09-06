@@ -1,6 +1,6 @@
 ## 👤Contact
-📞 Số điện thoại: +84 377 723 874
-📧 Email: tranconghao2k2@gmail.com
+📞 Số điện thoại: +84 377 723 874  
+📧 Email: tranconghao2k2@gmail.com  
 🌐 Website: [haotcvn.com](https://haotcvn.com)
 
 ## 🌐 Socials
