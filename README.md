@@ -1,4 +1,4 @@
-## 👤Contact
+## 👤Contacts
 📞 Phone: +84 377 723 874  
 📧 Email: tranconghao2k2@gmail.com  
 🌐 Website: [haotc.site](https://haotc.site)
