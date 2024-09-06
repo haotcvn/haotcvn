@@ -3,7 +3,7 @@
 📧 Email: tranconghao2k2@gmail.com  
 🌐 Website: [haotc.site](https://haotc.site)
 
-## 🌐 Socials
+## 🔗 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haotcvn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@haotc)
 
 # 💻Tech Stack
